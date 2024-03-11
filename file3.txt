@@ -1,2 +1,3 @@
 ini adalah file3
 menambahkan file3 dari feature/b commit ke 3
+penambahan fitur baru di file3
